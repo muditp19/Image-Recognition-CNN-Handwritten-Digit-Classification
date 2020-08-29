@@ -39,7 +39,3 @@ Keras
   1. Open the file and change the path to test_data and test_labels: <br/>
 2.   cd Handwritten-Character-Recognition<br/>
   -------python test.py</b>
-
-
- # Project report
-   Project report is included in the FML_final.pdf
